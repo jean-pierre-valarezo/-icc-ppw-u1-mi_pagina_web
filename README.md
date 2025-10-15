@@ -30,7 +30,7 @@
 | Etiqueta | Descripción | Implementación |
 |-----------|--------------|----------------|
 | `<figure>` | Contenedor para imagen con pie de foto | Logo HTML5 con `<figcaption>` |
-| `<nav>` | que permite agrupar enlaces, lo que resulta en un marcado más semántico | una estructura adicional que puede ser útil para los lectores de pantalla  |
+| `<article>` | Contenedor para un contenido independiente, como una noticia, publicación o bloque con sentido propio dentro del sitio. | Se usa para mostrar un texto o bloque informativo que puede entenderse por sí solo  |
 
 **Código usado:**
 ```html
