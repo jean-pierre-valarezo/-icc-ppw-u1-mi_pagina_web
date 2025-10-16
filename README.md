@@ -150,7 +150,8 @@ El archivo `script.js` incorpora dos acciones básicas:
 ## Capturas de pantalla del proyecto final
 
 * Agregar su captura de pantalla del proyecto final funcionando en el navegador, de ambas versiones (sin y con CSS/JS)
-
- (<<img width="1884" height="911" alt="Captura de pantalla 2025-10-16 170127" src="https://github.com/user-attachments/assets/901799ba-a625-41a1-bd1e-69bd80c13654" />>)
-(<<img width="1418" height="632" alt="Captura de pantalla 2025-10-16 172032" src="https://github.com/user-attachments/assets/fb2d067f-02b8-49ab-9971-8173091f229a" />
+Con css
+ <img width="1884" height="911" alt="Captura de pantalla 2025-10-16 170127" src="https://github.com/user-attachments/assets/901799ba-a625-41a1-bd1e-69bd80c13654" />>)
+Sin css
+<img width="1418" height="632" alt="Captura de pantalla 2025-10-16 172032" src="https://github.com/user-attachments/assets/fb2d067f-02b8-49ab-9971-8173091f229a" />
 >)
