@@ -4,16 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mi pagina web</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Jean Pierre Valarezo</h1>
+    <h1 id="titulo">Jean Pierre Valarezo</h1>
     <h2>Explorando los Estándares Web con HTML, CSS y JavaScript</h2>
   </header>
 
   <section>
     <h2>Tabla de elementos HTML</h2>
-    <table border="2.5">
+    <table>
       <tr>
         <th>Elemento</th>
         <th>Descripcion</th>
@@ -28,6 +29,7 @@
         <td>usa el elemento adecuado para ese tipo de texto</td>
       </tr>
     </table>
+    <button id="agregarFila">Agregar fila</button>
   </section>
 
   <section>
@@ -37,12 +39,13 @@
         independiente dentro de un documento, página, aplicación o sitio web</p>
     </article>
     <figure>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100" alt="Logo HTML5">
+      <img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100" alt="Logo HTML5">
     </figure>
   </section>
 
   <footer>
     <p>Jean Pierre Valarezo — Plataformas Web</p>
   </footer>
+  <script src="script.js"></script>
 </body>
 </html>
